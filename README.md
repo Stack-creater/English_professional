@@ -5,6 +5,8 @@ alinktoanexternal<https://www.baidu.com>
 
 [Another File](./REBACK.md)
 
+![File Img](./jlu.jpg)
+
 ![A Img](http://static.runoob.com/images/runoob-logo.png)
 
 ```javascript
